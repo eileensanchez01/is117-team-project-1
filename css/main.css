@@ -146,7 +146,7 @@ textarea {
 }
 #menu li {
   display: inline-block;
-  margin-left: 70px;
+  margin-left: 60px;
   padding-top: 25px;
 }
 #menu a{
@@ -161,8 +161,8 @@ textarea {
   text-align: center;
 }
 .callout{
-  width: 480px;
-  height: 196px;
+  width: 320px;
+  height: 300px;
 }
 .position_absolute{
   position: absolute;
@@ -177,6 +177,13 @@ nav a {
   color: #222222;
   text-decoration: none;
   text-transform: uppercase;
+}
+a:hover {
+  background-color: #00ccff;
+}
+a{
+  text-decoration: none;
+  color: #444444;
 }
 /* ==========================================================================
    Helper classes
