@@ -132,14 +132,14 @@ textarea {
 }
 #masthead{
   height: 74px;
-  background-image: url("../img/background.jpg");
+  background-color: #00ccff;
   background-size: cover;
   background-position-y: center;
   margin-bottom: 45px;
 }
 #masthead_landing{
   height: 367px;
-  background-image: url("../img/background.jpg");
+  background-color: #00ccff;
   background-size: cover;
   background-position-y: center;
   margin-bottom: 45px;
@@ -166,6 +166,17 @@ textarea {
 }
 .position_absolute{
   position: absolute;
+}
+.text_center{
+  text-align: center;
+}
+#hero_div{
+
+}
+nav a {
+  color: #222222;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 /* ==========================================================================
    Helper classes
