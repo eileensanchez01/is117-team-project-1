@@ -145,7 +145,14 @@ textarea {
   margin-bottom: 45px;
 }
 #menu li {
-  display: inline;
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 25px;
+}
+#menu a{
+  color: #444444;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 #side_photo{
   width: 320px;
