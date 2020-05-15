@@ -1,4 +1,4 @@
-# is117-team-project-1
+# IS117 Team Project 1
 IS117 Team Project 1 
 Group: Alex Kim and Eileen Sanchez
 
